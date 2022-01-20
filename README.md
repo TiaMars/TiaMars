@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TiaMars
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding, and I love food!
+- 🌱 I’m currently learning javascript, and the fundamentals of coding.
+- 💞️ I’m looking to expand my knowledge and confidence in this fellowship. 
+- 📫 How to reach me nafitiamarston@pursuit.org
 
 <!---
 TiaMars/TiaMars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
